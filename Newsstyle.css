@@ -1,0 +1,18 @@
+/* styles.css */
+
+/* Styles existants */
+
+/* Styles pour la nouvelle section Blog */
+#blog {
+    margin-top: 2em;
+}
+
+#blog article {
+    border: 1px solid #ddd;
+    padding: 1em;
+    margin-bottom: 1em;
+}
+
+#blog h3 {
+    color: #333;
+}
